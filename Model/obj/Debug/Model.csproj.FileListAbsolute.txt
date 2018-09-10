@@ -1,0 +1,12 @@
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\bin\Debug\Model.dll
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\bin\Debug\Model.pdb
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\obj\Debug\Model.dll
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\obj\Debug\Model.pdb
+D:\ИКИТ\Programs\AnalysisOfAlloys\AnalysisOfAlloys\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Работа\Проекты\AnalysisOfAlloys\Model\bin\Debug\Model.dll
+E:\Работа\Проекты\AnalysisOfAlloys\Model\bin\Debug\Model.pdb
+E:\Работа\Проекты\AnalysisOfAlloys\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Работа\Проекты\AnalysisOfAlloys\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Работа\Проекты\AnalysisOfAlloys\Model\obj\Debug\Model.dll
+E:\Работа\Проекты\AnalysisOfAlloys\Model\obj\Debug\Model.pdb
